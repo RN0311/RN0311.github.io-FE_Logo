@@ -1,1 +1,1 @@
-# FarEdge Logo transition
+# FarEdge-Transition-Logo
